@@ -24,7 +24,7 @@ myfunction=([knownname,fullname,gender,dateofbirth,wikipedialink,awarddate,categ
 document.getElementById('demo').innerHTML+=`<div class="card m-2" style="width:18rem;height:25rem" >
 
 <div class="card-body">
-  <h5 class="card-title">Known Name : ${knownname}</h5><br>
+  <h5 class="card-title">Name : ${knownname}</h5><br>
   <p class="card-title">Full Name : ${fullname}</p>
   <p class="card-title">Gender : ${gender}</p>
   <p class="card-title">DOB : ${dateofbirth}</p>

@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&family=Prompt&display=swap');
 #demo{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+ background-color:lightgray;
 }
-h1{
-    justify-content: center;
+body h1{
     text-align:center;
+    color: brown;
 }
+
+
